@@ -3,6 +3,8 @@
 CORS stands for Cross-Origin Resource Sharing. It is a security feature implemented by web browsers that allows or restricts web applications running at one origin (domain) to make requests for resources from a different origin. An origin consists of the combination of protocol (e.g., HTTP, HTTPS), domain, and port number.
 
 The same-origin policy is a fundamental security principle that restricts web pages from making requests to a different origin than the one that served the web page. While this policy enhances security, it can also limit the ability of web applications to interact with resources from other domains. CORS was introduced to provide a controlled and secure way for web applications to request resources from different origins.
+![CORS](https://github.com/nafiurrashid/Basic_consepts/blob/main/cors-cover.png)
+
 
 ## Understanding Origin
 
