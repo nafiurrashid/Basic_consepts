@@ -26,7 +26,7 @@ Before you start, it's helpful to have a basic understanding of:
 
 The repository is organized into the following sections:
 
-1. [CORS and CSRF](cors_and_csrf.md)
+1. [CORS and CSRF](CORS+CSRF.md)
    - Explanation of Cross-Origin Resource Sharing (CORS)
    - Understanding Cross-Site Request Forgery (CSRF)
    - Differences and security implications
